@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-shop-004"
+  short_description: "Bakery posters and series with shared type and colour mood."
+  default_prompt: "Use $xxd-shop-004; scope it to bakery products, keep the bundled original brief as the sole aesthetic authority, keep cross-sections and fillings as photographed, and for a series first generate an anchor poster for approval, then build every other product from its own photo plus the anchor while inheriting only type character, colour mood and brand identity and finding a new composition each time; deliver fresh PNGs in one flat task directory."
+
+policy:
+  allow_implicit_invocation: true
