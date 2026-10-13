@@ -10,9 +10,34 @@
 
 > Original brief: [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)
 
+<!-- xxd-samples:start -->
 ## Samples
 
-No samples yet. The commands below are usage examples, not visual evidence.
+<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="Launch listing image"></a><br><sub>Launch listing image · 1:1 · 1254x1254<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (Chinese)</sub></p>
+
+### One product, every placement
+
+Same product, same brief: each ratio is a new composition, not a crop.
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="Launch listing image"></a><br><sub>Launch listing image · 1:1 · 1254x1254<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="Launch poster"></a><br><sub>Launch poster · 3:4 · 1086x1448<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="Store vertical screen"></a><br><sub>Store vertical screen · 9:16 · 941x1672<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="Banner"></a><br><sub>Banner · 16:9 · 1672x941<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (Chinese)</sub></td></tr>
+</table>
+
+### Bakery series (set)
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/p01-set-3x4-1086x1448.png"><img src="assets/examples/preview/p01-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (Chinese)<br>1 of 3</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-3x4-1086x1448.png"><img src="assets/examples/preview/p02-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU sourdough country loaf · name only · brief-generated (Chinese)<br>2 of 3</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-3x4-1086x1448.png"><img src="assets/examples/preview/p03-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU cinnamon roll · name only · brief-generated (Chinese)<br>3 of 3</sub></td></tr>
+</table>
+
+### In English
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s08-special-4x5-1122x1402.png"><img src="assets/examples/preview/s08-special-4x5-1122x1402.webp" height="220" alt="Launch poster"></a><br><sub>Launch poster · 4:5 · 1122x1402<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> · brief-generated (English)</sub></td></tr>
+</table>
+
+<sub>All sample products are fictional demo brands, and their prices and specs are demo values. Source photos come from Unsplash; credits and licence are in [assets/examples/README.md](assets/examples/README.md). Each image is one complete generation: not retouched, composited or upscaled, with its real pixel size shown. Images that failed visual review were regenerated and are not shown. Click for full size.</sub>
+
+<!-- xxd-samples:end -->
 
 ## What it solves
 
@@ -25,8 +50,11 @@ Single posters work too: the product is big and close, with flaky layers, open c
 ## How a series runs
 
 1. Give a set of products — several photos, a folder, or several names.
-2. Approve the anchor poster for the first product.
-3. Each remaining product gets its own poster referencing its own photo plus the approved anchor; only the three shared qualities carry over.
+2. A storyboard gives each poster one of the layouts the brief lists (giant type as background, vertical stack, one oversized product, scattered rhythm, ingredients entering from the edge); neighbours never repeat. Each product's flavours, price and stickers stay its own.
+3. Approve the storyboard together with the anchor poster for the first product.
+4. Each remaining product follows its storyboard row, referencing its own photo plus the anchor; only the three shared qualities carry over.
+
+One product can be a set too: `--set 3` gives three posters, each leading with a texture it really has.
 
 ## Getting started
 

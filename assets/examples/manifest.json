@@ -1,0 +1,177 @@
+{
+ "skill": "004",
+ "special": {
+  "zh": "换语言",
+  "en": "In English"
+ },
+ "set": {
+  "zh": "烘焙系列（套图）",
+  "en": "Bakery series (set)"
+ },
+ "items": [
+  {
+   "id": "p01",
+   "section": "set",
+   "ratio": "3:4",
+   "input": "croissant",
+   "use": {
+    "zh": "系列上新海报",
+    "en": "Series launch poster"
+   },
+   "product": {
+    "zh": "麦屿 黄油可颂",
+    "en": "MAIYU butter croissant"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 1 / 3 张",
+    "en": "1 of 3"
+   },
+   "hero": false,
+   "file": "p01-set-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "p02",
+   "section": "set",
+   "ratio": "3:4",
+   "input": "name",
+   "use": {
+    "zh": "系列上新海报",
+    "en": "Series launch poster"
+   },
+   "product": {
+    "zh": "麦屿 酸种乡村面包",
+    "en": "MAIYU sourdough country loaf"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 2 / 3 张",
+    "en": "2 of 3"
+   },
+   "hero": false,
+   "file": "p02-set-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "p03",
+   "section": "set",
+   "ratio": "3:4",
+   "input": "name",
+   "use": {
+    "zh": "系列上新海报",
+    "en": "Series launch poster"
+   },
+   "product": {
+    "zh": "麦屿 肉桂卷",
+    "en": "MAIYU cinnamon roll"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "note": {
+    "zh": "第 3 / 3 张",
+    "en": "3 of 3"
+   },
+   "hero": false,
+   "file": "p03-set-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s01",
+   "section": "size",
+   "ratio": "1:1",
+   "input": "croissant",
+   "use": {
+    "zh": "上新主图",
+    "en": "Launch listing image"
+   },
+   "product": {
+    "zh": "麦屿 黄油可颂",
+    "en": "MAIYU butter croissant"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "hero": true,
+   "file": "s01-size-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s02",
+   "section": "size",
+   "ratio": "3:4",
+   "input": "croissant",
+   "use": {
+    "zh": "上新海报",
+    "en": "Launch poster"
+   },
+   "product": {
+    "zh": "麦屿 黄油可颂",
+    "en": "MAIYU butter croissant"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s02-size-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s03",
+   "section": "size",
+   "ratio": "9:16",
+   "input": "croissant",
+   "use": {
+    "zh": "门店竖屏",
+    "en": "Store vertical screen"
+   },
+   "product": {
+    "zh": "麦屿 黄油可颂",
+    "en": "MAIYU butter croissant"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s03-size-9x16-941x1672.png",
+   "pixels": "941x1672"
+  },
+  {
+   "id": "s04",
+   "section": "size",
+   "ratio": "16:9",
+   "input": "croissant",
+   "use": {
+    "zh": "横幅",
+    "en": "Banner"
+   },
+   "product": {
+    "zh": "麦屿 黄油可颂",
+    "en": "MAIYU butter croissant"
+   },
+   "text": "prompt zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s04-size-16x9-1672x941.png",
+   "pixels": "1672x941"
+  },
+  {
+   "id": "s08",
+   "section": "special",
+   "ratio": "4:5",
+   "input": "croissant",
+   "use": {
+    "zh": "上新海报",
+    "en": "Launch poster"
+   },
+   "product": {
+    "zh": "麦屿 黄油可颂",
+    "en": "MAIYU butter croissant"
+   },
+   "text": "prompt en-US",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s08-special-4x5-1122x1402.png",
+   "pixels": "1122x1402"
+  }
+ ]
+}

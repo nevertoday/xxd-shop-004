@@ -10,9 +10,34 @@
 
 > 原始提示词：[简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md)
 
+<!-- xxd-samples:start -->
 ## 样张
 
-暂无样张。下文命令只是用法示例，不是视觉证据。
+<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="上新主图"></a><br><sub>上新主图 · 1:1 · 1254x1254<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）</sub></p>
+
+### 一个商品，适配每个位置
+
+同一商品、同一份原稿，每个比例都重新构图，不是裁切。
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="上新主图"></a><br><sub>上新主图 · 1:1 · 1254x1254<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="上新海报"></a><br><sub>上新海报 · 3:4 · 1086x1448<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="门店竖屏"></a><br><sub>门店竖屏 · 9:16 · 941x1672<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="横幅"></a><br><sub>横幅 · 16:9 · 1672x941<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）</sub></td></tr>
+</table>
+
+### 烘焙系列（套图）
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/p01-set-3x4-1086x1448.png"><img src="assets/examples/preview/p01-set-3x4-1086x1448.webp" height="220" alt="系列上新海报"></a><br><sub>系列上新海报 · 3:4 · 1086x1448<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）<br>第 1 / 3 张</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-3x4-1086x1448.png"><img src="assets/examples/preview/p02-set-3x4-1086x1448.webp" height="220" alt="系列上新海报"></a><br><sub>系列上新海报 · 3:4 · 1086x1448<br>麦屿 酸种乡村面包 · 仅商品名称 · 按原稿生成（中文）<br>第 2 / 3 张</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-3x4-1086x1448.png"><img src="assets/examples/preview/p03-set-3x4-1086x1448.webp" height="220" alt="系列上新海报"></a><br><sub>系列上新海报 · 3:4 · 1086x1448<br>麦屿 肉桂卷 · 仅商品名称 · 按原稿生成（中文）<br>第 3 / 3 张</sub></td></tr>
+</table>
+
+### 换语言
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s08-special-4x5-1122x1402.png"><img src="assets/examples/preview/s08-special-4x5-1122x1402.webp" height="220" alt="上新海报"></a><br><sub>上新海报 · 4:5 · 1122x1402<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（英文）</sub></td></tr>
+</table>
+
+<sub>样张商品均为虚构的演示品牌，价格、规格等数字为演示设定；商品原图来自 Unsplash，署名与许可见 [assets/examples/README.md](assets/examples/README.md)。每张都是单次生成的完整画面，未修图、未拼接、未放大，像素照实标注；没通过目视验收的已重出，不放进来。点开看原尺寸。</sub>
+
+<!-- xxd-samples:end -->
 
 ## 它解决什么
 
@@ -25,8 +50,11 @@
 ## 系列怎么做
 
 1. 你给一组产品（多张图、一个目录或几个产品名）。
-2. 先出第一款的定调海报，你确认字体、颜色和店名的感觉。
-3. 其余每款各出一张：继承定调图的字体气质、色彩情绪和品牌识别，构图换新的，比如巨字做背景、竖向堆叠、单个超大产品、多件错落。
+2. 先写一份分镜：每款一张，每张从原稿列出的版式里分一种，比如巨字做背景、竖向堆叠、单个超大产品、多件错落、原料从边缘进入；相邻两张不重复。每款的口味、价格和贴纸只属于它自己。
+3. 分镜和第一款的定调海报一起给你看，你确认字体、颜色和店名的感觉。
+4. 其余每款按分镜各出一张，继承定调图的字体气质、色彩情绪和品牌识别。
+
+只有一款产品也能做一套：`--set 3`，每张突出一种它真有的质感，比如酥皮层次、拉丝或流心。
 
 不满意定调图，就只重做定调图，后面的不会跟着错。
 
