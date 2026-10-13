@@ -4,6 +4,12 @@
 
 | 文件 | 用途 | 实际像素 | 输入 | 文字方式 | visual_review |
 |---|---|---|---|---|---|
+| `c01-category-3x4-1086x1448.png` | 上新海报 | 1086x1448 | 仅商品名称 | plan zh-CN | passed |
+| `c02-category-1x1-1254x1254.png` | 上新主图 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c03-category-4x5-1122x1402.png` | 社媒 | 1122x1402 | 仅商品名称 | plan zh-CN | passed |
+| `c04-category-9x16-941x1672.png` | 门店竖屏 | 941x1672 | 仅商品名称 | plan zh-CN | passed |
+| `c05-category-1x1-1254x1254.png` | 上新主图 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c06-category-16x9-1672x941.png` | 横幅 | 1672x941 | 仅商品名称 | plan zh-CN | passed |
 | `p01-set-3x4-1086x1448.png` | 系列上新海报 | 1086x1448 | 原图 `croissant` | prompt zh-CN | passed |
 | `p02-set-3x4-1086x1448.png` | 系列上新海报 | 1086x1448 | 仅商品名称 | prompt zh-CN | passed |
 | `p03-set-3x4-1086x1448.png` | 系列上新海报 | 1086x1448 | 仅商品名称 | prompt zh-CN | passed |

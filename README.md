@@ -29,6 +29,13 @@
 <tr><td align="center" valign="top"><a href="assets/examples/p01-set-3x4-1086x1448.png"><img src="assets/examples/preview/p01-set-3x4-1086x1448.webp" height="220" alt="系列上新海报"></a><br><sub>系列上新海报 · 3:4 · 1086x1448<br>麦屿 黄油可颂 · <a href="assets/examples/sources/croissant.jpg">原图</a> · 按原稿生成（中文）<br>第 1 / 3 张</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-3x4-1086x1448.png"><img src="assets/examples/preview/p02-set-3x4-1086x1448.webp" height="220" alt="系列上新海报"></a><br><sub>系列上新海报 · 3:4 · 1086x1448<br>麦屿 酸种乡村面包 · 仅商品名称 · 按原稿生成（中文）<br>第 2 / 3 张</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-3x4-1086x1448.png"><img src="assets/examples/preview/p03-set-3x4-1086x1448.webp" height="220" alt="系列上新海报"></a><br><sub>系列上新海报 · 3:4 · 1086x1448<br>麦屿 肉桂卷 · 仅商品名称 · 按原稿生成（中文）<br>第 3 / 3 张</sub></td></tr>
 </table>
 
+### 换一个品类也成立
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-3x4-1086x1448.png"><img src="assets/examples/preview/c01-category-3x4-1086x1448.webp" height="200" alt="上新海报"></a><br><sub>上新海报 · 3:4 · 1086x1448<br>麦屿 草莓奶油蛋糕 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="200" alt="上新主图"></a><br><sub>上新主图 · 1:1 · 1254x1254<br>麦屿 贝果 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-4x5-1122x1402.png"><img src="assets/examples/preview/c03-category-4x5-1122x1402.webp" height="200" alt="社媒"></a><br><sub>社媒 · 4:5 · 1122x1402<br>麦屿 蛋黄酥 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/c04-category-9x16-941x1672.png"><img src="assets/examples/preview/c04-category-9x16-941x1672.webp" height="200" alt="门店竖屏"></a><br><sub>门店竖屏 · 9:16 · 941x1672<br>麦屿 巴斯克芝士蛋糕 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-1x1-1254x1254.png"><img src="assets/examples/preview/c05-category-1x1-1254x1254.webp" height="200" alt="上新主图"></a><br><sub>上新主图 · 1:1 · 1254x1254<br>麦屿 甜甜圈 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c06-category-16x9-1672x941.png"><img src="assets/examples/preview/c06-category-16x9-1672x941.webp" height="200" alt="横幅"></a><br><sub>横幅 · 16:9 · 1672x941<br>麦屿 黄油曲奇礼盒 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
+</table>
+
 ### 换语言
 
 <table>
