@@ -13,7 +13,7 @@
    "id": "c01",
    "section": "category",
    "ratio": "3:4",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "上新海报",
     "en": "Launch poster"
@@ -36,7 +36,7 @@
    "id": "c02",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "上新主图",
     "en": "Launch listing image"
@@ -59,7 +59,7 @@
    "id": "c03",
    "section": "category",
    "ratio": "4:5",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "社媒",
     "en": "Social post"
@@ -82,7 +82,7 @@
    "id": "c04",
    "section": "category",
    "ratio": "9:16",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "门店竖屏",
     "en": "Store vertical screen"
@@ -105,7 +105,7 @@
    "id": "c05",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "上新主图",
     "en": "Launch listing image"
@@ -128,7 +128,7 @@
    "id": "c06",
    "section": "category",
    "ratio": "16:9",
-   "input": "name",
+   "input": "product-maiyu-cookies+logo-maiyu",
    "use": {
     "zh": "横幅",
     "en": "Banner"
@@ -151,7 +151,7 @@
    "id": "p01",
    "section": "set",
    "ratio": "3:4",
-   "input": "croissant",
+   "input": "croissant+logo-maiyu",
    "use": {
     "zh": "系列上新海报",
     "en": "Series launch poster"
@@ -178,7 +178,7 @@
    "id": "p02",
    "section": "set",
    "ratio": "3:4",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "系列上新海报",
     "en": "Series launch poster"
@@ -205,7 +205,7 @@
    "id": "p03",
    "section": "set",
    "ratio": "3:4",
-   "input": "name",
+   "input": "logo-maiyu",
    "use": {
     "zh": "系列上新海报",
     "en": "Series launch poster"
@@ -232,7 +232,7 @@
    "id": "s01",
    "section": "size",
    "ratio": "1:1",
-   "input": "croissant",
+   "input": "croissant+logo-maiyu",
    "use": {
     "zh": "上新主图",
     "en": "Launch listing image"
@@ -255,7 +255,7 @@
    "id": "s02",
    "section": "size",
    "ratio": "3:4",
-   "input": "croissant",
+   "input": "croissant+logo-maiyu",
    "use": {
     "zh": "上新海报",
     "en": "Launch poster"
@@ -278,7 +278,7 @@
    "id": "s03",
    "section": "size",
    "ratio": "9:16",
-   "input": "croissant",
+   "input": "croissant+logo-maiyu",
    "use": {
     "zh": "门店竖屏",
     "en": "Store vertical screen"
@@ -301,7 +301,7 @@
    "id": "s04",
    "section": "size",
    "ratio": "16:9",
-   "input": "croissant",
+   "input": "croissant+logo-maiyu",
    "use": {
     "zh": "横幅",
     "en": "Banner"
@@ -324,7 +324,7 @@
    "id": "s08",
    "section": "special",
    "ratio": "4:5",
-   "input": "croissant",
+   "input": "croissant+logo-maiyu",
    "use": {
     "zh": "上新海报",
     "en": "Launch poster"
