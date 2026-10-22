@@ -8,25 +8,37 @@
 
 </div>
 
-> Original brief: [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)
+**Make a single bakery poster or a whole launch set — big, close, delicious, and clearly one shop.**
+For a series, a key poster comes first for your approval; every other item then shares its lettering, colour mood and shop identity, each with its own layout.
+
+| At a glance | |
+|---|---|
+| **You give** | Product photos or names (several are fine), your shop name or wordmark, and any price you want shown |
+| **You get** | A single bakery poster, or a launch series with one look and a different layout per poster |
+| **The look** | Huge close-up products · warm bright morning light · the product name as a brand graphic · magazine-style handwritten notes · a new layout every poster |
+| **Best for** | Bread, cakes, croissants, tarts, cookies, mooncakes — bakery launches and seasonal series |
+
+> **Once installed, just say:**
+>
+> /xxd-shop-004 Pistachio molten croissant — make a 3:4 poster
 
 <!-- xxd-samples:start -->
 ## Samples
 
-<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="Launch listing image"></a><br><sub>Launch listing image · 1:1 · 1254x1254<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)</sub></p>
+<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="Launch listing image"></a><br><sub>Launch listing image · 1:1 · 1254x1254<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)</sub></p>
 
 ### One product, every placement
 
-Same product, same brief: each ratio is a new composition, not a crop.
+Same product, same style: each ratio is a new composition, not a crop.
 
 <table>
-<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="Launch listing image"></a><br><sub>Launch listing image · 1:1 · 1254x1254<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="Launch poster"></a><br><sub>Launch poster · 3:4 · 1086x1448<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="Store vertical screen"></a><br><sub>Store vertical screen · 9:16 · 941x1672<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="Banner"></a><br><sub>Banner · 16:9 · 1672x941<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="Launch listing image"></a><br><sub>Launch listing image · 1:1 · 1254x1254<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="Launch poster"></a><br><sub>Launch poster · 3:4 · 1086x1448<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="Store vertical screen"></a><br><sub>Store vertical screen · 9:16 · 941x1672<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="Banner"></a><br><sub>Banner · 16:9 · 1672x941<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)</sub></td></tr>
 </table>
 
 ### Bakery series (set)
 
 <table>
-<tr><td align="center" valign="top"><a href="assets/examples/p01-set-3x4-1086x1448.png"><img src="assets/examples/preview/p01-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)<br>1 of 3</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-3x4-1086x1448.png"><img src="assets/examples/preview/p02-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU sourdough country loaf · <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)<br>2 of 3</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-3x4-1086x1448.png"><img src="assets/examples/preview/p03-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU cinnamon roll · <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (Chinese)<br>3 of 3</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/p01-set-3x4-1086x1448.png"><img src="assets/examples/preview/p01-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)<br>1 of 3</sub></td><td align="center" valign="top"><a href="assets/examples/p02-set-3x4-1086x1448.png"><img src="assets/examples/preview/p02-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU sourdough country loaf · <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)<br>2 of 3</sub></td><td align="center" valign="top"><a href="assets/examples/p03-set-3x4-1086x1448.png"><img src="assets/examples/preview/p03-set-3x4-1086x1448.webp" height="220" alt="Series launch poster"></a><br><sub>Series launch poster · 3:4 · 1086x1448<br>MAIYU cinnamon roll · <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (Chinese)<br>3 of 3</sub></td></tr>
 </table>
 
 ### Across categories
@@ -39,7 +51,7 @@ Same product, same brief: each ratio is a new composition, not a crop.
 ### In English
 
 <table>
-<tr><td align="center" valign="top"><a href="assets/examples/s08-special-4x5-1122x1402.png"><img src="assets/examples/preview/s08-special-4x5-1122x1402.webp" height="220" alt="Launch poster"></a><br><sub>Launch poster · 4:5 · 1122x1402<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · brief-generated (English)</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s08-special-4x5-1122x1402.png"><img src="assets/examples/preview/s08-special-4x5-1122x1402.webp" height="220" alt="Launch poster"></a><br><sub>Launch poster · 4:5 · 1122x1402<br>MAIYU butter croissant · <a href="assets/examples/sources/croissant.jpg">source photo</a> + <a href="assets/examples/sources/logo-maiyu.png">Logo</a> · model-written text (English)</sub></td></tr>
 </table>
 
 <sub>All sample products are fictional demo brands, and their prices and specs are demo values. Demo product shots and logos were made for this project, some on top of Unsplash photos; credits and licence are in [assets/examples/README.md](assets/examples/README.md). Each image is one complete generation: not retouched, composited or upscaled, with its real pixel size shown. Images that failed visual review were regenerated and are not shown. Click for full size.</sub>
@@ -48,44 +60,110 @@ Same product, same brief: each ratio is a new composition, not a crop.
 
 ## What it solves
 
-Bakery launches usually fail one of two ways: every poster is lovely but together they look like four different shops, or the set is consistent because it is one template with the pastry swapped.
+Bakery launches fail in two familiar ways: every image is pretty but together they look like four different shops, or the set is consistent but every image is the same template with a different loaf.
 
-**Shop 004** follows one line of its brief: **layouts may change from poster to poster, but type character, colour mood and brand identity are shared.** For a series it first makes one anchor poster for your approval; every following product inherits that character and finds its own composition — giant type as background structure, a vertical stack, one oversized product, a staggered group.
+**Shop 004**'s rule: **posters may change layout, but lettering character, colour mood and brand identity are shared.**
 
-Single posters work too: the product is big and close, with flaky layers, open crumb, cheese pull, molten centres and glaze amplified under bright morning-window light.
+A single poster works too: the product is big and close, with the most tempting textures — flaky layers, open crumb, stretch, molten centres, icing — magnified in light like a bakery window at dawn.
 
-## How a series runs
+## How a series is made
 
-1. Give a set of products — several photos, a folder, or several names.
-2. A storyboard gives each poster one of the layouts the brief lists (giant type as background, vertical stack, one oversized product, scattered rhythm, ingredients entering from the edge); neighbours never repeat. Each product's flavours, price and stickers stay its own.
-3. Approve the storyboard together with the anchor poster for the first product.
-4. Each remaining product follows its storyboard row, referencing its own photo plus the anchor; only the three shared qualities carry over.
+1. You give a group of products: several photos, a folder, or a few names.
+2. It writes a storyboard: one poster per item, each with its own layout (giant lettering behind, vertical stack, one oversized product, a scattered group, ingredients entering from the edge…), never the same twice in a row. Each item's flavour, price and stickers belong to it alone.
+3. You see the storyboard together with the first poster and confirm the lettering, colours and shop identity.
+4. The rest follow, inheriting the key poster's lettering character, colour mood and identity.
 
-One product can be a set too: `--set 3` gives three posters, each leading with a texture it really has.
+One product can make a set too: each poster shows a texture it really has. If the key poster is off, only it is redone, so nothing downstream inherits the mistake.
 
-## Getting started
+## What to prepare
+
+- **Product photos or names** (required): with a photo, cut faces and fillings follow it — nothing added.
+- **Your shop name or wordmark** (strongly recommended for a series): it ties the set together.
+- **Price, "baked daily", awards, founding year** (optional): shown only if you say so.
+
+## How to use it
+
+### Step 1: install (once)
 
 ```bash
 git clone https://github.com/nevertoday/xxd-shop-004.git
+mkdir -p ~/.claude/skills
 ln -s "$(pwd)/xxd-shop-004" ~/.claude/skills/xxd-shop-004
 ```
+
+Codex users link the same folder into `~/.codex/skills/xxd-shop-004`. Restart your AI assistant's session after installing.
+
+### Step 2: say what you want in plain words
+
+```text
+/xxd-shop-004 Pistachio molten croissant — make a 3:4 poster
+/xxd-shop-004 Turn the four new items in ~/Desktop/autumn-launch into a series; the shop is Maiye Bakery
+/xxd-shop-004 Only one product, Earl Grey chiffon — make a set of 3, each showing a different texture
+```
+
+No flags to memorise. Anything you leave open, such as sizes or how many, is asked in one go, and next time you can reuse your previous settings.
+
+### Step 3: what it does next
+
+1. Reads your product photo and description and asks only what is still open; sizes are recommended from the use, with pixel dimensions.
+2. For a series, you first see the storyboard and the key poster; the rest follow after you confirm.
+3. Every size is composed afresh, never cropped from another image.
+4. Checks each image before delivery: is the product unchanged, is the text spelled right, are there numbers you never gave? Anything that fails is reported and redone.
+5. Saves PNGs to a new task folder under `~/Desktop/xxd/xxd-shop-004/` and gives you the path.
+
+<details>
+<summary><strong>Advanced: command flags (for later)</strong></summary>
 
 ```text
 /xxd-shop-004 ./pistachio-croissant.jpg --product "Molten Pistachio Croissant" --size 3:4 --text prompt --locale en-US
 /xxd-shop-004 ~/Desktop/autumn-launch/ --product "Maiye Bakery · Autumn Launch" --size 3:4 --text prompt --locale zh-CN
 ```
 
-Key flags: `--product`, `--size`, `--text prompt / exact / plan / none`, `--facts`, `--locale`. Full list in the [family runtime](references/shop-runtime.md).
+Key flags: `--product`, `--size`, `--text prompt / exact / plan / none`, `--facts`, `--locale`. Full list in the [runtime reference](references/shop-runtime.md).
 
-## Boundaries
+</details>
 
-- The original brief is kept verbatim and is the only aesthetic authority.
-- Cross-sections and fillings follow your photo; nothing is added.
-- Sales, awards, years, "baked daily" and "limited" appear only when you provide them.
-- Bakery only; other categories are pointed to Shop 001 or 009.
+## FAQ
+
+**Does it work for non-bakery products?**
+
+It is built for bakery. For other categories, try [001](https://github.com/nevertoday/xxd-shop-001) or [009](https://github.com/nevertoday/xxd-shop-009).
+
+**What do I need?**
+
+Three things: ① an AI assistant that supports Skills, such as Claude Code or Codex; ② an image-capable model — your assistant's built-in image generation, or a model provider configured in Codex that generates images through the Responses API (GPT Image 2 by default); ③ Python 3.11+ with Pillow (`pip install pillow`).
+
+**Does it cost anything? Can I use it commercially?**
+
+The Skill is free to download; image generation is billed to your own model account. The project uses the PolyForm Noncommercial licence: personal learning, research and testing are fine; running a shop, client work or other commercial use needs the author's written permission first — see "License" at the end.
+
+**How large are the images?**
+
+You can ask for a ratio or exact pixels. The real size is whatever the model returns — never secretly upscaled — and the file name states the true pixels.
+
+**Will the text in the image have typos?**
+
+AI images occasionally misspell words or add small marks such as ® next to a brand name. Every image is zoomed and checked before delivery, and any failure is redone; all samples on this page passed that check.
+
+**Will it invent prices or sales numbers?**
+
+No. Anything that looks like a fact — price, specs, origin, sales, awards, certifications — comes only from what you provide or text clearly readable on the product; otherwise it is left out, with no "¥XX" placeholder.
+
+**Can it handle many products at once?**
+
+Yes. Give it a folder of product photos: each image is one product, sizes and text are asked once, and no product's facts or copy leak into another's.
+
+## Principles
+
+- **The style stays true:** behind this Skill is a mature commercial design prompt ([original brief](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)). The Skill never rewrites it or adds its own colours or art direction; it only hands the model your product, sizes, text and facts.
+- **The product is not redesigned:** with a product photo, shape, colour, packaging text and logo follow the photo.
+- **Only your facts,** and each product stands alone — nothing borrowed from other products, earlier results or samples.
+- **Real PNG bitmaps,** never SVG or code drawings passed off as images; every run creates a new task folder.
+- A series shares only lettering character, colour mood and brand identity; layouts, products and copy are never copied from the previous poster.
 
 <!-- xxd-shop-tail -->
-## Project structure
+<details>
+<summary><strong>Project structure (for developers)</strong></summary>
 
 ```text
 xxd-shop-004/
@@ -106,6 +184,8 @@ xxd-shop-004/
         ├── zh-CN.md
         └── en.md
 ```
+
+</details>
 
 <!-- xxd-readme-ads:start -->
 ## About XXD
